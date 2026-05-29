@@ -1568,7 +1568,6 @@ The report offers ample proof of the productivity benefits of AI-supported plann
 ## Thorp, K.R., Thompson, A.L. and Herritt, M.T., 2024. Phenotyping cotton leaf chlorophyll via in situ hyperspectral reflectance sensing, spectral vegetation indices, and machine learning. Frontiers in Plant Science, 15, p.1495593. 
 ## Kaggle, (2025) Remote Worker Productivity Dataset. Available at: https://www.kaggle.com/datasets/ziya07/remote-worker-productivity-dataset (Accessed: 28 May 2026)
 
-
-```python
-
-```
+# Appendices
+## Appendix A: GitHub Repository
+https://github.com/sreeramvikramannair-wq/A-B-Testing-Project-on-Remote-Work-and-Productivity-Trends.git
